@@ -42,8 +42,10 @@
     * 2.3 Naive Bayes
 * **3. Submition**
 
-<hr>
+<br>
 
 Copy & Edit code directly from **kaggle@elcaiseri**:
 1. [MNIST: Simple CNN keras (Accuracy : 0.99)=>Top 1%](https://www.kaggle.com/code/elcaiseri/mnist-simple-cnn-keras-accuracy-0-99-top-1)
 2. [MNIST: SIMPLE Machine Learning Algorithms](https://www.kaggle.com/code/elcaiseri/mnist-simple-machine-learning-algorithms)
+
+Don't forget to **UPVOTE** it if you like it.
