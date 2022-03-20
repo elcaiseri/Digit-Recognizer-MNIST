@@ -32,7 +32,7 @@
 * **6. References**
 
 
-### MNIST: SIMPLE Machine Learning Algorithms
+## MNIST: SIMPLE Machine Learning Algorithms
 
 ### Table:
 * **1. Introduction**
@@ -42,7 +42,7 @@
     * 2.3 Naive Bayes
 * **3. Submition**
 
-<br>
+<hr>
 
 Copy & Edit code directly from **kaggle@elcaiseri**:
 1. [MNIST: Simple CNN keras (Accuracy : 0.99)=>Top 1%](https://www.kaggle.com/code/elcaiseri/mnist-simple-cnn-keras-accuracy-0-99-top-1)
